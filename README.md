@@ -1,3 +1,5 @@
+> **UPDATE:** it now works with Expo SDK 47
+
 Steps to reproduce the crash on iOS simulator:
 
 1. `npm i`
